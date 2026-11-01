@@ -1,0 +1,1 @@
+music-ai.mp3 and music-real.mp3 are event files supplied by organizer. voice files are demo assets; replace voice-real-demo.mp3 with a verified human recording before a live event.

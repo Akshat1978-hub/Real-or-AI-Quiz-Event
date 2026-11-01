@@ -1,0 +1,1 @@
+Put your verified event images here. Then update src/data/quizData.js to use paths like /images/quiz/round1-real.jpg

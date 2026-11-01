@@ -1,0 +1,1 @@
+video-ai-demo.mp4 and video-real-demo.mp4 are functional demo placeholders. Replace both with verified AI/real videos before a serious live event.
